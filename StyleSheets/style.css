@@ -1,0 +1,9 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.form-group label{
+    color: #fff;
+}
+#second,
+#third{
+display: none;}
